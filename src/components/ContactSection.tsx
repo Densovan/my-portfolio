@@ -3,10 +3,6 @@ import React from "react";
 import { personalData } from "../utils/data/personal-data";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { FaFacebook } from "react-icons/fa6";
-import { FaTwitterSquare } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si";
-import { RiContactsFill } from "react-icons/ri";
-import { MdDownload } from "react-icons/md";
 
 const ContactSection = () => {
   return (
@@ -18,7 +14,7 @@ const ContactSection = () => {
           </p>
           <div className="w-[40%]">
             <p className="text-gray-200 text-sm lg:text-lg">
-              I'm currently specializing in{" "}
+              I&apos;m currently specializing in{" "}
               <span className="text-green-500">Software Engineer</span>. Feel
               free to get in touch and talk more about your projects.
             </p>
