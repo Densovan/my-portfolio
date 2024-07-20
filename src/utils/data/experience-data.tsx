@@ -8,8 +8,8 @@ export const experiences = [
   {
     id: 2,
     title: "Backend Developer",
-    company: "DR TECH Company",
-    duration: "(July 20213 - July 2024)",
+    company: "DR TECH COMPANY",
+    duration: "(July 2023 - July 2024)",
   },
   {
     id: 3,
